@@ -1,8 +1,12 @@
-### Overview
+### 🚀 Coachify: AI-Powered Career Coach
+
+### 🌐 Deployment Link : https://coachify-seven.vercel.app/
+
+### 📝 Overview
 
 Coachify is an AI-driven platform designed to provide personalized career guidance. It offers tailored industry insights, dynamic resume and cover letter builders, and interactive interview preparation with quizzes. This application leverages a modern tech stack to provide an engaging and responsive user experience.
 
-### Features
+### ✨ Features
 
 - Personalized Career Guidance: Receive tailored advice and insights based on your career goals and industry preferences.
 
@@ -12,7 +16,7 @@ Coachify is an AI-driven platform designed to provide personalized career guidan
 
 - Skill Assessment: Evaluate your skills and get recommendations for improvement.
 
-### Tech Stack
+### 💻 Tech Stack
 
 - Frontend: React.js, Tailwind CSS
 
@@ -22,14 +26,14 @@ Coachify is an AI-driven platform designed to provide personalized career guidan
 
 - Deployment: Vercel
 
-### Getting Started
-- Prerequisites
+### 🚀 Getting Started
+**⚡ Prerequisites**
 
 - Node.js
 
 - PostgreSQL
 
-### Installation
+### 🛠️ Installation
 
 1. **Clone the repository:**
 ```bash
@@ -56,7 +60,7 @@ The application will be running at http://localhost:3000
 .
 ```
 
-### Usage
+### 🖥️ Usage
 
 - Sign Up / Login: Create an account or log in to access personalized features.
 
@@ -67,7 +71,7 @@ The application will be running at http://localhost:3000
 - Mock Interviews: Practice with mock interview questions and review feedback.
 
 
-### Contributing
+### 🤝 Contributing
 
 We welcome contributions to enhance Coachify. To contribute:
 
