@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Overview
 
-## Getting Started
+Coachify is an AI-driven platform designed to provide personalized career guidance. It offers tailored industry insights, dynamic resume and cover letter builders, and interactive interview preparation with quizzes. This application leverages a modern tech stack to provide an engaging and responsive user experience.
 
-First, run the development server:
+### Features
 
+- Personalized Career Guidance: Receive tailored advice and insights based on your career goals and industry preferences.
+
+- Resume & Cover Letter Builder: Create and customize professional resumes and cover letters with ease.
+
+- Mock Interviews: Practice with AI-generated interview questions and receive instant feedback.
+
+- Skill Assessment: Evaluate your skills and get recommendations for improvement.
+
+### Tech Stack
+
+- Frontend: React.js, Tailwind CSS
+
+- Backend: Node.js, Express.js
+
+- Database: PostgreSQL
+
+- Deployment: Vercel
+
+### Getting Started
+- Prerequisites
+
+- Node.js
+
+- PostgreSQL
+
+### Installation
+
+1. **Clone the repository:**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Deepanshu8560/Coachify.git
+cd Coachify
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Install dependencies:**
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+3. **Set up environment variables:**
+```bash
+Create a .env file in the root directory and add the following:
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. **Start the development server:**
+```bash
+npm run dev
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+The application will be running at http://localhost:3000
+.
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Sign Up / Login: Create an account or log in to access personalized features.
 
-## Deploy on Vercel
+- Dashboard: Navigate through your personalized career dashboard.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Resume Builder: Use the resume builder to create and download your resume.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Mock Interviews: Practice with mock interview questions and review feedback.
+
+
+### Contributing
+
+We welcome contributions to enhance Coachify. To contribute:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature-name).
+
+Commit your changes (git commit -am 'Add new feature').
+
+Push to the branch (git push origin feature-name).
+
+Create a new Pull Request.
+
+
